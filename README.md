@@ -7,6 +7,7 @@ Diese Home Assistant-Integration ermöglicht die direkte Anbindung von **Modbus-
 - **Erkennung & Ansteuerung von Waveshare-Hardware** über Modbus TCP
 - Jeder einzelne Relaiskanal wird als **eigenständiges Gerät mit separater Entität** dargestellt
 - Dadurch ist eine **individuelle Raumzuordnung und Automatisierung pro Kanal** möglich
+- Live-Aktualisierung der Gerätestatus über DataUpdateCoordinator, damit Home Assistant jederzeit den aktuellen Zustand der Relais kennt, auch wenn es extern geschaltet wurde.
 - Einrichtung komplett über die Benutzeroberfläche (Config Flow)
 - Unterstützung für mehrere Geräte gleichzeitig
 - Zuverlässige Kommunikation durch integrierten **DataUpdateCoordinator**
