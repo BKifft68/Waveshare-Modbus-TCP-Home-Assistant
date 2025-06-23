@@ -1,0 +1,3 @@
+DOMAIN = "waveshare_relay"
+DEFAULT_PORT = 502
+DEFAULT_CHANNELS = 16
