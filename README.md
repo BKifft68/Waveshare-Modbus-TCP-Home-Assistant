@@ -11,8 +11,6 @@ Diese Home Assistant-Integration ermöglicht die direkte Anbindung von **Modbus-
 - Unterstützung für mehrere Geräte gleichzeitig
 - Zuverlässige Kommunikation durch integrierten **DataUpdateCoordinator**
 
-Diese Integration eignet sich ideal für Heimautomatisierungsprojekte mit robuster, industrieller Hardware über IP.
-
 ## 📘 Installation & Konfiguration
 
 Die Anleitung zur Installation findest du im **[Wiki des Projekts](https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki)**.
