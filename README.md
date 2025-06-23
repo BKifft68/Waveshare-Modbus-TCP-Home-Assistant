@@ -13,8 +13,10 @@ Diese Home Assistant-Integration ermöglicht die direkte Anbindung von **Modbus-
 
 ## 📘 Installation & Konfiguration
 
-Die Anleitungen zur Einrichtung und Installation findest du im **[Wiki des Projekts](https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki/Installation)**.
-                                                               **[Wiki des Projekts](https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki/Waveshare-Hardware-Setup)**.
+Die Anleitungen zur Einrichtung und Installation findest du im 
+**[Wiki des Projekts](https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki/Installation)**.
+                                                               
+**[Wiki des Projekts](https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki/Waveshare-Hardware-Setup)**.
 ## 📄 Lizenz
 
 Veröffentlicht unter der **GNU General Public License v3.0 (GPL-3.0)**. Weitere Infos findest du in der Datei `LICENSE`.
