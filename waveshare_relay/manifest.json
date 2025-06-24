@@ -2,7 +2,7 @@
   "domain": "waveshare_relay",
   "name": "Waveshare Relay TCP (Modbus)",
   "version": "1.1.0",
-  "documentation": "https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki",
+  "documentation": "https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant",
   "requirements": ["pymodbus==3.8.3"],
   "dependencies": [],
   "codeowners": ["@bkifft68"],
