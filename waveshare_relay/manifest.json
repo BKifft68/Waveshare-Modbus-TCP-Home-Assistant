@@ -2,10 +2,10 @@
   "domain": "waveshare_relay",
   "name": "Waveshare Relay TCP (Modbus)",
   "version": "1.1.0",
-  "documentation": "https://github.com/dein-name/waveshare_relay",
+  "documentation": "https://github.com/BKifft68/Waveshare-Modbus-TCP-Home-Assistant/wiki",
   "requirements": ["pymodbus==3.8.3"],
   "dependencies": [],
-  "codeowners": ["@dein-github"],
+  "codeowners": ["@bkifft68"],
   "config_flow": true,
   "iot_class": "local_polling"
 }
